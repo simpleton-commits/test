@@ -5,7 +5,7 @@
 
 
 print("Ready")
-x = 5
+x == 5
 if x = 5:
     print("yes")
 else:
